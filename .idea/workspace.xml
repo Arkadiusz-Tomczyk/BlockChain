@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c08af185-4bd1-4d9e-9902-fbc7149f3e12" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../blockChain/.idea/libraries/Gradle__org_bouncycastle_bcprov_jdk16_1_45.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../blockChain/src/main/java/com/blockChain/Transaction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../blockChain/src/main/java/com/blockChain/TransactionInput.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../blockChain/src/main/java/com/blockChain/TransactionOutput.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../blockChain/src/main/java/com/blockChain/Wallet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../blockChain/.gradle/3.5-rc-2/fileContent/annotation-processors.bin" afterPath="$PROJECT_DIR$/../blockChain/.gradle/3.5-rc-2/fileContent/annotation-processors.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../blockChain/.gradle/3.5-rc-2/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/../blockChain/.gradle/3.5-rc-2/fileContent/fileContent.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../blockChain/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" afterPath="$PROJECT_DIR$/../blockChain/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../blockChain/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/../blockChain/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../blockChain/.gradle/3.5-rc-2/taskHistory/jvmClassSignatures.bin" afterPath="$PROJECT_DIR$/../blockChain/.gradle/3.5-rc-2/taskHistory/jvmClassSignatures.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../blockChain/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/../blockChain/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../blockChain/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/../blockChain/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../blockChain/build/classes/main/com/blockChain/Block.class" afterPath="$PROJECT_DIR$/../blockChain/build/classes/main/com/blockChain/Block.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../blockChain/build/classes/main/com/blockChain/BlockChain.class" afterPath="$PROJECT_DIR$/../blockChain/build/classes/main/com/blockChain/BlockChain.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../blockChain/build/libs/blockChain-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../blockChain/build/libs/blockChain-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../blockChain/out/production/classes/com/blockChain/BlockChain.class" afterPath="$PROJECT_DIR$/../blockChain/out/production/classes/com/blockChain/BlockChain.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../blockChain/.idea/modules/blockChain_main.iml" afterPath="$PROJECT_DIR$/../blockChain/.idea/modules/blockChain_main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../blockChain/.idea/modules/blockChain_test.iml" afterPath="$PROJECT_DIR$/../blockChain/.idea/modules/blockChain_test.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../blockChain/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../blockChain/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../blockChain/build.gradle" afterPath="$PROJECT_DIR$/../blockChain/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../blockChain/src/main/java/com/blockChain/BlockChain.java" afterPath="$PROJECT_DIR$/../blockChain/src/main/java/com/blockChain/BlockChain.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../blockChain/src/main/java/com/blockChain/StringUtil.java" afterPath="$PROJECT_DIR$/../blockChain/src/main/java/com/blockChain/StringUtil.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../blockChain/out/" />
     <ignored path="$PROJECT_DIR$/../blockChain/.gradle/" />
@@ -42,14 +22,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BlockChain.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BlockChain.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../blockChain/src/main/java/com/blockChain/BlockChain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="37" column="48" lean-forward="false" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
+            <state relative-caret-position="420">
+              <caret line="31" column="56" lean-forward="false" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#178#185#0" expanded="true" />
+                <element signature="e#210#217#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Transaction.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Transaction.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../blockChain/src/main/java/com/blockChain/Transaction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="43" column="8" lean-forward="false" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+            <state relative-caret-position="330">
+              <caret line="43" column="66" lean-forward="false" selection-start-line="43" selection-start-column="66" selection-end-line="43" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#356#374#0" expanded="true" />
@@ -504,11 +484,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/../blockChain/src/main/java/com/blockChain/Block.java" />
-        <option value="$PROJECT_DIR$/../blockChain/src/main/java/com/blockChain/BlockChain.java" />
         <option value="$PROJECT_DIR$/../blockChain/build.gradle" />
         <option value="$PROJECT_DIR$/../blockChain/src/main/java/com/blockChain/Wallet.java" />
         <option value="$PROJECT_DIR$/../blockChain/src/main/java/com/blockChain/StringUtil.java" />
         <option value="$PROJECT_DIR$/../blockChain/src/main/java/com/blockChain/Transaction.java" />
+        <option value="$PROJECT_DIR$/../blockChain/src/main/java/com/blockChain/BlockChain.java" />
       </list>
     </option>
   </component>
@@ -519,8 +499,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="122" />
-    <option name="y" value="404" />
+    <option name="x" value="395" />
     <option name="width" value="1558" />
     <option name="height" value="1038" />
   </component>
@@ -731,15 +710,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526928589022</updated>
-      <workItem from="1526928593009" duration="12571000" />
+      <workItem from="1526928593009" duration="13207000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12571000" />
+    <option name="totallyTimeSpent" value="13207000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="122" y="404" width="1558" height="1038" extended-state="0" />
+    <frame x="395" y="0" width="1558" height="1038" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -799,17 +778,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../blockChain/src/main/java/com/blockChain/BlockChain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="37" column="48" lean-forward="false" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#178#185#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../blockChain/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -860,12 +828,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../blockChain/src/main/java/com/blockChain/Transaction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="43" column="8" lean-forward="false" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+        <state relative-caret-position="330">
+          <caret line="43" column="66" lean-forward="false" selection-start-line="43" selection-start-column="66" selection-end-line="43" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#356#374#0" expanded="true" />
             <element signature="e#441#460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../blockChain/src/main/java/com/blockChain/BlockChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="31" column="56" lean-forward="false" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#210#217#0" expanded="true" />
           </folding>
         </state>
       </provider>
