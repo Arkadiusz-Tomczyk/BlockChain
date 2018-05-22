@@ -7,6 +7,9 @@ public class BlockChain {
 
     public static ArrayList<Block> blockChain = new ArrayList<Block>();
     public  static int difficulty = 5;
+    public static Wallet walletA;
+    public static Wallet walletB;
+
 
     public static void main(String[] args ) {
 
